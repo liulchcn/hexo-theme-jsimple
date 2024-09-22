@@ -1,14 +1,14 @@
 # 站点名称、简称
-site_name: JSimple
-short_name: JSM
+site_name: JavaPupile
+short_name: JP
 
 
 # 站长基本信息
 authorInfo:
   name: LeoChamp
-  home: https://bento.me/tomartisan
-  desc: 一个爱吃苹果的「小黄人」
-  avatar: /images/avatar.webp
+  # home: https://bento.me/tomartisan
+  desc: 一个热爱Java的小学生
+  avatar: /images/avatar.jpg
 
 # 默认主题：浅色(day)，深色(night)
 read_mode: day
@@ -31,9 +31,9 @@ highlight_theme: atom-one
 ###     顶部菜单3: top3
 ###     顶部菜单4: top4
 menu:
-  顶部菜单1: top1
-  顶部菜单2: top2
-  顶部菜单3: top3
+  杂谈: top1
+  文章: top2
+  我的简历: top3
 
 # 最左侧常驻的导航菜单，一般指向 /about 即可
 left_nav_menus:
@@ -48,19 +48,20 @@ middleCover:
   description: 一个关注科技与人文的技术博客
   # 中间封面社交连接
   sns:
-    github: https://github.com/tangkunyin
-    youtube: https://www.youtube.com/@itomartisan
+    github: https://github.com/liulchcn
+    e-mail: liulch.cn@gmail.com
+    # youtube: https://www.youtube.com/@itomartisan
 
 
 # 站点互动信息连接，如聊天室和捐赠地址
-chatLink: https://t.me/itomartisan
-donateLink: https://buymeacoffee.com/tomartisan
+# chatLink: https://t.me/itomartisan
+# donateLink: https://buymeacoffee.com/tomartisan
 
 
 # 文章内容申明
 post_declare: 
   enable: true
-  desc: 本文内容由XXX创作整理，读者若需转载，请保留出处，谢谢！
+  desc: 本文内容由LeoChamp创作整理，对全网开源，无论是否以盈利为目的
 
 # 站点创建时间，用于页底动态展示：成立X天
 site_creation:
@@ -91,7 +92,7 @@ analytics:
 
 ## 网站评论，仅支持Disqus。需要别的自行修改源码
 comments:
-  enable: false
+  enable: true
   configId: 12345
 
 ## 微软的clarity服务
