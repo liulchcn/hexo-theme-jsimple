@@ -31,9 +31,9 @@ highlight_theme: atom-one
 ###     顶部菜单3: top3
 ###     顶部菜单4: top4
 menu:
-  杂谈: top1
-  文章: top2
-  我的简历: top3
+  杂谈: talk
+  技术文章: article
+  resume: resume
 
 # 最左侧常驻的导航菜单，一般指向 /about 即可
 left_nav_menus:
@@ -44,12 +44,12 @@ left_nav_menus:
 
 # 中间封面信息
 middleCover:
-  title: 用代码摇滚这个世界
-  description: 一个关注科技与人文的技术博客
+  title: Easy to say, show me your code
+  description: 这是一个关注技术，同时具有人文关怀的博客
   # 中间封面社交连接
   sns:
     github: https://github.com/liulchcn
-    e-mail: liulch.cn@gmail.com
+    # e-mail: liulch.cn@gmail.com
     # youtube: https://www.youtube.com/@itomartisan
 
 
@@ -65,8 +65,8 @@ post_declare:
 
 # 站点创建时间，用于页底动态展示：成立X天
 site_creation:
-  year: 2020
-  fulltime: 08/08/2024
+  year: 2024
+  fulltime: 22/09/2024
 
 # 托管商信息
 serveInfo:
