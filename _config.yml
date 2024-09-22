@@ -5,7 +5,7 @@ short_name: JSM
 
 # 站长基本信息
 authorInfo:
-  name: 托码斯
+  name: LeoChamp
   home: https://bento.me/tomartisan
   desc: 一个爱吃苹果的「小黄人」
   avatar: /images/avatar.webp
@@ -34,7 +34,6 @@ menu:
   顶部菜单1: top1
   顶部菜单2: top2
   顶部菜单3: top3
-  顶部菜单4: top4
 
 # 最左侧常驻的导航菜单，一般指向 /about 即可
 left_nav_menus:
